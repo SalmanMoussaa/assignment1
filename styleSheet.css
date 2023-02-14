@@ -1,0 +1,142 @@
+html { overflow-y: scroll; overflow-x:hidden; }
+body { position: absolute; }
+.par1{
+    background-color:#00bd18;
+    height: 400px;
+    width: 600px;
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -450px;
+    margin-left: -270px;
+    border: 1px solid #000000;
+}
+.flower{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: -40px;
+
+
+
+}
+.part2{
+    background-color:#ffffff;
+    height: 250px;
+    width: 600px;
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -90px;
+    margin-left: -270px;
+    border: 1px solid #000000;
+
+}
+.title{height: 200px;
+    width: 400px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: 80px;
+    margin-left: -200px;}
+    a{
+        color:orange;
+    }
+    .part3{
+        background-color:#ffffff;
+    height: 450px;
+    width: 300px;
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 160px;
+    margin-left: 30px;
+    border: 1px solid #000000;
+
+
+    }
+    .part4{
+        background-color:#ffffff;
+    height: 450px;
+    width: 300px;
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 160px;
+    margin-left:-270px;
+    border: 1px solid #000000;
+
+
+    }
+    
+    .book{
+        border-radius: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        margin-top: 60px;
+        border:1px solid black;
+
+    }
+    .bag{
+        border-radius: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        margin-top: 60px;
+        border:1px solid black;
+
+    }
+    .product1 .product2{height: 200px;
+        width: 400px;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 40px;
+        position:absolute;
+        top: 50%;
+        left: 50%;
+        margin-top: 80px;
+        margin-left: -200px;}
+        
+    .part5{
+        background-color:#ebf0f6;
+    height: 250px;
+    width: 600px;
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 540px;
+    margin-left: -270px;
+    border: 1px solid #000000;
+    }
+    .p5Title{
+        text-align: center  ;
+    }
+    .p5{
+        text-align: center;
+    }
+    .part6{
+        background-color:#f4f8fb;
+        height: 100px;
+        width: 600px;
+        position:fixed;
+        top: 50%;
+        left: 50%;
+        margin-top: 740px;
+        margin-left: -270px;
+        border: 1px solid #000000;
+
+    }
+    .mad{
+        color: #d7dfe8;
+    }
+    .un{
+        color: #d7dfe8;
+    }
